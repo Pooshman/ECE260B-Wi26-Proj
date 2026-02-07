@@ -1,0 +1,3 @@
+[submodule "ece284_reference"]
+	path = ece284_reference
+	url = https://github.com/JustinLinKK/ece284-project.git
